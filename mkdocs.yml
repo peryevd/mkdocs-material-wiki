@@ -1,0 +1,30 @@
+site_name: AIS MGN Wiki
+nav:
+    - Главная : '../docs'
+    - ...
+    - О компании : 'about.md'
+    - Список тегов: 'tags.md'
+theme:
+  logo: assets/logo.png
+  name: 'material'
+  language: ru
+  features:
+    - navigation.tabs
+  
+plugins:
+  - search:
+      lang: 
+        - ru
+        - en
+  - tags:
+      tags_file: tags.md
+  - mkdocs-video:
+      # css_style:
+      #   width: "100%"
+      #   height: "100%"
+  - awesome-pages
+extra:
+  social:
+    - icon: fontawesome/brands/twitter  
+      link: https://twitter.com/squidfunk
+copyright: Copyright &copy; 2006-2022 ООО "АНСЕР ПРО"
