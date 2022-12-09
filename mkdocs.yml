@@ -1,6 +1,6 @@
 site_name: AIS MGN Wiki
 nav:
-    - Главная : '../docs'
+    - Главная : 'index.md'
     - ...
     - О компании : 'about.md'
     - Список тегов: 'tags.md'
