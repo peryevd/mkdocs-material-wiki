@@ -20,7 +20,7 @@ plugins:
       #   height: "100%"
   - awesome-pages
 extra:
-  homepage: http://172.22.119.132:8001/Wiki/Информация%20о%20системе/Аварийные%20ситуации/#_1
+  homepage: http://10.11.4.56:8443/Wiki/Информация%20о%20системе/Аварийные%20ситуации/#_1
   social:
     - icon: fontawesome/brands/twitter  
       link: https://twitter.com/squidfunk
