@@ -1,0 +1,5 @@
+nav:
+    - Wiki
+    - FAQ
+    - "Список тегов" : tags.md
+order: desc

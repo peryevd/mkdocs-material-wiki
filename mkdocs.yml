@@ -1,15 +1,11 @@
-site_name: AIS MGN Wiki
-nav:
-    - Главная : 'index.md'
-    - ...
-    - О компании : 'about.md'
-    - Список тегов: 'tags.md'
+site_name: Wiki АИС Мосгорнаследия
 theme:
   logo: assets/logo.png
   name: 'material'
   language: ru
   features:
     - navigation.tabs
+    - toc.integrate 
   
 plugins:
   - search:
@@ -24,6 +20,7 @@ plugins:
       #   height: "100%"
   - awesome-pages
 extra:
+  homepage: http://172.22.119.132:8001/Wiki/Информация%20о%20системе/Аварийные%20ситуации/#_1
   social:
     - icon: fontawesome/brands/twitter  
       link: https://twitter.com/squidfunk
